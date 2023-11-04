@@ -6919,12 +6919,12 @@ textarea.form-control-lg {
 
 .link-success {
   color: RGBA(var(--bs-success-rgb), var(--bs-link-opacity, 1)) !important;
-  -webkit-text-decoration-color: RGBA(var(--bs-success-rgb), var(--bs-link-underline-opacity, 1)) !important;
+  webkit-text-decoration-color: RGBA(var(--bs-success-rgb), var(--bs-link-underline-opacity, 1)) !important;
   text-decoration-color: RGBA(var(--bs-success-rgb), var(--bs-link-underline-opacity, 1)) !important;
 }
 .link-success:hover, .link-success:focus {
   color: RGBA(73, 141, 151, var(--bs-link-opacity, 1)) !important;
-  -webkit-text-decoration-color: RGBA(73, 141, 151, var(--bs-link-underline-opacity, 1)) !important;
+  webkit-text-decoration-color: RGBA(73, 141, 151, var(--bs-link-underline-opacity, 1)) !important;
   text-decoration-color: RGBA(73, 141, 151, var(--bs-link-underline-opacity, 1)) !important;
 }
 
