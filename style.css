@@ -13,7 +13,7 @@ div.links {
         overflow: hidden;
 }
 
-    .video-container iframe {
+.video-container iframe {
         position: absolute;
         top: 0;
         left: 0;
